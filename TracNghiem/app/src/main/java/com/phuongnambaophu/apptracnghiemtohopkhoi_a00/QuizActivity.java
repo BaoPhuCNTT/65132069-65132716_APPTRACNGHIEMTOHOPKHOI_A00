@@ -213,7 +213,7 @@ public class QuizActivity extends AppCompatActivity {
         if (indexHienTai == danhSachCauHoi.size() - 1) {
             btnNext.setText("NỘP BÀI");
         } else {
-            btnNext.setText("NEXT");
+            btnNext.setText("TIẾP THEO");
         }
 
         if(trangThaiCauHoi[indexHienTai] != 0) {
@@ -308,7 +308,7 @@ public class QuizActivity extends AppCompatActivity {
             } else {
                 indexHienTai = firstUnanswered;
                 hienThiCauHoi();
-                Toast.makeText(QuizActivity.this, "Hệ thống tự động quay lại câu chưa làm!", Toast.LENGTH_SHORT).show();
+                Toast.makeText(QuizActivity.this, "Quay lại câu chưa làm!", Toast.LENGTH_SHORT).show();
             }
         }
     }
