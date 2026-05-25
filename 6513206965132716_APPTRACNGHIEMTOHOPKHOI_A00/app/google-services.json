@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079230959733",
+    "project_id": "apptracnghiemtohopkhoi-a00",
+    "storage_bucket": "apptracnghiemtohopkhoi-a00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079230959733:android:5da2d3cd41370641b9e83c",
+        "android_client_info": {
+          "package_name": "com.phuongnambaophu.apptracnghiemtohopkhoi_a00"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3MNw9LZCyI7SVCtDR5NS0YxBL8E2sYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

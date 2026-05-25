@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="vintage_linen">#FAF0E6</color>     <color name="vintage_amethyst">#9966CC</color>  <color name="vintage_lavender">#E6E6FA</color>  <color name="dusty_blue">#AEC6CF</color>        <color name="dusty_rose">#E6A8D7</color>        <color name="sage_green">#B2AC88</color>        <color name="vintage_text_dark">#4A4A4A</color> </resources>

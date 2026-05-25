@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F6FA"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:id="@+id/headerDanhSach"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#202C39"
+        android:paddingTop="45dp"
+        android:paddingBottom="15dp">
+
+        <ImageView
+            android:id="@+id/btnBackDanhSach"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="10dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="8dp"
+            android:src="@android:drawable/ic_menu_revert"
+            app:tint="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/txtTitleDanhSach"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="10dp"
+            android:layout_toEndOf="@id/btnBackDanhSach"
+            android:text="Danh mục đề thi"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lvDanhSachDe"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="#DCDCDC"
+        android:dividerHeight="1dp"
+        android:padding="10dp"/>
+
+</LinearLayout>
