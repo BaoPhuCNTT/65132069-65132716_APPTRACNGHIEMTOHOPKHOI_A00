@@ -5,7 +5,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
-**SmartA** là giải pháp di động toàn diện giúp học sinh chinh phục kỳ thi THPT Quốc Gia khối A00. Với sự kết hợp giữa hệ thống đề thi sát thực tế, với tổng số lượng là 12.000 và câu trả lời và **Phú Nam AI** (sử dụng Groq API), SmartA là người bạn đồng hành tin cậy, hỗ trợ giải đáp kiến thức 24/7.
+**SmartA** là giải pháp di động toàn diện giúp học sinh chinh phục kỳ thi THPT Quốc Gia khối A00. Với sự kết hợp giữa hệ thống đề thi sát thực tế, với tổng số lượng là 12.000 câu hỏi và câu trả lời và **Phú Nam AI** (sử dụng Groq API), SmartA là người bạn đồng hành tin cậy, hỗ trợ giải đáp kiến thức 24/7.
 
 ---
 
