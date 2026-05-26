@@ -17,7 +17,7 @@
 | **Nguyễn Dương Bảo Phú** | **65132716** |
 
 **Giảng viên hướng dẫn:** Thầy Mai Cường Thọ  
-*Đơn vị: Khoa Công nghệ Thông tin - Đại học Nha Trang (NTU).*
+
 ---
 
 ## 📱 Khám Phá Giao Diện
