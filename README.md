@@ -7,7 +7,16 @@
 
 **SmartA** là ứng dụng di động hỗ trợ ôn luyện thi THPT Quốc Gia khối A00 (Toán, Lý, Hóa). Ứng dụng tích hợp **Phú Nam AI** (sử dụng Groq API) giúp giải thích chi tiết các câu hỏi khó và hỗ trợ học sinh 24/7.
 
-Đồ án thực hiện bởi: **Nguyễn Phương Nam** & **Nguyễn Dương Bảo Phú** - Đại học Nha Trang (NTU).
+---
+
+## 👨‍💻 Nhóm Phát Triển
+
+| Thành viên | MSSV |
+| :--- | :--- |
+| **Nguyễn Phương Nam** | **65132069** |
+| **Nguyễn Dương Bảo Phú** | **65132716** |
+
+*Đơn vị: Khoa Công nghệ Thông tin - Đại học Nha Trang (NTU).*
 
 ---
 
