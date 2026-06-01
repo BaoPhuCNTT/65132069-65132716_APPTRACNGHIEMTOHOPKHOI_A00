@@ -39,7 +39,7 @@ public class ChatAIActivity extends AppCompatActivity {
     private ChatAdapter adapter;
     private final OkHttpClient client = new OkHttpClient();
 
-    private final String GROQ_API_KEY = "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";
+    private final String GROQ_API_KEY = "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";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
