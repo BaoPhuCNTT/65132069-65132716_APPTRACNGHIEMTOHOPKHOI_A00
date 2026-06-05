@@ -1,5 +1,6 @@
 # 🎓 SmartA - Ứng Dụng Luyện Thi Tổ Hợp Khối A00 Có Tích Hợp AI
 Link video trình bày đề tài AppTracNghiemToHopKhoiA00:https://drive.google.com/file/d/1JAqKPKvYBzTnr5WGkiHA5rtD3y3Tx8eu/view?usp=drive_link
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
